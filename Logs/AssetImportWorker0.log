@@ -137,3 +137,43 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(17d6885653050e34fb881b407c506847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da96de6d78ee0427ca42936c47dbf2a') in 0.007724 seconds 
   Import took 0.011347 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 10.961037 seconds.
+  path: Assets/Scenes/New Material.mat
+  artifactKey: Guid(5641899a58d5ab94aa38c5989624548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Material.mat using Guid(5641899a58d5ab94aa38c5989624548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3bd37d766c4fb6a972a89c87a2dda3') in 0.228469 seconds 
+  Import took 0.238619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.394647 seconds.
+  path: Assets/Scenes/materials
+  artifactKey: Guid(f67126d056e8dda48a21d8970f59fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/materials using Guid(f67126d056e8dda48a21d8970f59fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2112ffe5692681b9da6e5527ca46b90e') in 0.014724 seconds 
+  Import took 0.020831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.276088 seconds.
+  path: Assets/Scenes/materials/groundColor.mat
+  artifactKey: Guid(50c572f9347e4cd4aa740c84f432dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/materials/groundColor.mat using Guid(50c572f9347e4cd4aa740c84f432dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72bfa7801c1cc31cdfda8637d892f7d') in 0.027814 seconds 
+  Import took 0.038291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.697416 seconds.
+  path: Assets/Scenes/materials/wallColor.mat
+  artifactKey: Guid(e7c29ade1ce918e46bb9be44750d44ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/materials/wallColor.mat using Guid(e7c29ade1ce918e46bb9be44750d44ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1017d91f653999c77780999558150fe4') in 0.035468 seconds 
+  Import took 0.044770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 636.022013 seconds.
+  path: Assets/Scenes/materials/playerColor.mat
+  artifactKey: Guid(b0dd125206c9683439043475ca971f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/materials/playerColor.mat using Guid(b0dd125206c9683439043475ca971f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce03c5659b8f1b9d7af87e33a0e5211e') in 0.052975 seconds 
+  Import took 0.063324 seconds .
+
